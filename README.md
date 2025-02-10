@@ -12,7 +12,6 @@ I'm an embedded systems developer passionate about building efficient, low-level
 Here are some of my projects:
 - **[Smart Home Automation System](https://github.com/yourusername/smart-home-automation)**: A low-power IoT system using ESP32 and MQTT.
 - **[Real-Time Data Logger](https://github.com/yourusername/data-logger)**: A data logger using STM32 and SD card storage.
-- **[Custom RTOS](https://github.com/yourusername/custom-rtos)**: A lightweight real-time operating system for ARM Cortex-M.
 
 ## 📫 Let's Connect
 - Email: 21520880@gm.uit.edu.vn
